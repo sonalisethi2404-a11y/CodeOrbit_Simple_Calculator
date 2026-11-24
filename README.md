@@ -31,4 +31,4 @@ A simple command-line calculator developed using Python.
    python calculator.py
 
 ## Author
-Your Name
+Sonali Sethi
